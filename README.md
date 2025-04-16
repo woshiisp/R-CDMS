@@ -20,3 +20,7 @@ library(zeallot)
 library(htmlwidgets)
 
 and the data of app is stored in MySQL.And encryption of app is Hash.
+
+
+这个测试小程序是我雍R语言及shiny组件开发的C/S模式应用，其中好用到了R中的很多包。例如：shiny包、shinydashboard包、dashboardthemes包、ggplot2包、formattable包、leaflet包、RMariaDB包.
+针对刚刚学习R语言的小伙伴一些参考，交流可以mail：172510356@qq.com
